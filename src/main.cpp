@@ -1,5 +1,5 @@
 #include <iostream>
-#include "barcode.h"
+#include "../include/barcode.h"
 
 int main() {
     std::string upc = "012345678901";  // Example UPC

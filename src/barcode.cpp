@@ -1,4 +1,4 @@
-#include "barcode.h"
+#include "../include/barcode.h"
 #include <iostream>
 #include <map>
 
